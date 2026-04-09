@@ -37,10 +37,10 @@
 ### **스코프 (Scope) 종류**
 | 파트별 스코프 |  종류 | 설명 |
 | :--- | :---| :---|
-| **FrontEnd** | **web, ui, store, hook 등** | 프론트엔드의 각 분야 |
-| **BackEnd** | **api, db, auth, dto 등** | 백엔드의 각 분야 |
-| **AI/Analysis** | **model, data, preprocess, inference 등** | 분석 과정의 각 분야 |
-| **Common** | **infra, ci, env** | 개발 환경 등 기타 분야 |
+| **FrontEnd** | web, ui, store, hook 등 | 프론트엔드의 각 분야 |
+| **BackEnd** | api, db, auth, dto 등 | 백엔드의 각 분야 |
+| **AI/Analysis** | model, data, preprocess, inference 등 | 분석 과정의 각 분야 |
+| **Common** | infra, ci, env | 개발 환경 등 기타 분야 |
 
 ### **예시**
 * `Feat(api): 피칭 폼 분석 결과 API 연동`
